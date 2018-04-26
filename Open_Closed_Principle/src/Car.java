@@ -1,0 +1,3 @@
+interface Car {
+    void workInTaxi();
+}
